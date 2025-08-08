@@ -1,0 +1,101 @@
+transaction_id,transaction_date,customer_name,email,city,product_name,category,quantity,price,discount,payment_method,status
+1,"Apr 18, 2024",ANDI saputra,andi@example.com,jakarta,Kopi Arabika 200gr,Beverages,2,,10%,Transfer Bank,Cancelled
+2,2024-01-18,LINA wijaya,lina@example.com,jakarta,Kopi Arabika 200gr,Beverages,5,,10%,QRIS,Cancelled
+3,2024/02/12,michael TAN,,Jakarta,Jus Jeruk 250ml,Beverages,,30000,5%,Kartu Kredit,Pending
+4,"Feb 11, 2024",siti aminah,siti@example.com,Jakarta,Teh Hijau 100gr,Beverages,4,45000,0,COD,Cancelled
+5,2024/04/17,siti aminah,siti@example.com,Surabaya,Kopi Arabika 200gr,Beverages,1,,0,COD,Cancelled
+6,20/01/2024,budi HARTONO,,Jakarta,Kopi Arabika 200gr,Beverages,,75000,0.10,Transfer Bank,Pending
+7,"Apr 05, 2024",siti aminah,siti@example.com,Bandung,Jus Jeruk 250ml,Beverages,3,30000,5%,COD,Cancelled
+8,05/04/2024,ANDI saputra,andi@example.com,jakarta,Roti Gandum,Bakery,4,,0,QRIS,Cancelled
+9,2024-02-13,siti aminah,,Surabaya,Kopi Arabika 200gr,Beverages,3,75000,0.05,COD,Completed
+10,2024/04/06,LINA wijaya,lina@example.com,Bandung,Jus Jeruk 250ml,Beverages,2,30000,5%,COD,Cancelled
+11,2024/03/29,michael TAN,,jakarta,Jus Jeruk 250ml,Beverages,2,,,Transfer Bank,Completed
+12,04/04/2024,ANDI saputra,,singapore,Teh Hijau 100gr,Beverages,1,,,Kartu Kredit,Cancelled
+13,2024-01-16,siti aminah,,Kuala Lumpur,Roti Gandum,Bakery,3,40000,0,Kartu Kredit,Completed
+14,"Apr 16, 2024",LINA wijaya,lina@example.com,singapore,Kopi Arabika 200gr,Beverages,1,,0,QRIS,Completed
+15,24-03-2024,siti aminah,siti@example.com,singapore,Teh Hijau 100gr,Beverages,3,,10%,Transfer Bank,Pending
+16,22/01/2024,siti aminah,siti@example.com,Jakarta,Teh Hijau 100gr,Beverages,-1,,0.10,Transfer Bank,Cancelled
+17,2024/04/08,budi HARTONO,budi@example.com,Bandung,Teh Hijau 100gr,Beverages,5,,,QRIS,Cancelled
+18,"Mar 06, 2024",budi HARTONO,,singapore,Kue Coklat,Snacks,4,55000,0.05,QRIS,Completed
+19,30-03-2024,siti aminah,siti@example.com,singapore,Kopi Arabika 200gr,Beverages,2,75000,10%,Transfer Bank,Completed
+20,2024-02-26,ANDI saputra,andi@example.com,Bandung,Kopi Arabika 200gr,Beverages,-1,,0.05,QRIS,Cancelled
+21,15/03/2024,michael TAN,,Surabaya,Roti Gandum,Bakery,2,40000,10%,Kartu Kredit,Pending
+22,2024-03-14,LINA wijaya,lina@example.com,Jakarta,Jus Jeruk 250ml,Beverages,4,,0,Transfer Bank,Completed
+23,2024/03/23,budi HARTONO,budi@example.com,Surabaya,Teh Hijau 100gr,Beverages,2,,,QRIS,Completed
+24,2024-01-27,LINA wijaya,lina@example.com,Jakarta,Roti Gandum,Bakery,,40000,0.05,Kartu Kredit,Pending
+25,2024-03-06,LINA wijaya,lina@example.com,Surabaya,Teh Hijau 100gr,Beverages,1,,0,Kartu Kredit,Pending
+26,2024/04/08,LINA wijaya,lina@example.com,jakarta,Roti Gandum,Bakery,3,40000,10%,Transfer Bank,Cancelled
+27,21-01-2024,siti aminah,,singapore,Kopi Arabika 200gr,Beverages,,,0.05,Transfer Bank,Cancelled
+28,23-01-2024,ANDI saputra,andi@example.com,Kuala Lumpur,Teh Hijau 100gr,Beverages,,45000,,Transfer Bank,Cancelled
+29,2024-03-31,budi HARTONO,budi@example.com,Surabaya,Roti Gandum,Bakery,-1,,15%,COD,Pending
+30,"Feb 14, 2024",budi HARTONO,,jakarta,Kue Coklat,Snacks,-1,,0,Kartu Kredit,Pending
+31,13-03-2024,ANDI saputra,andi@example.com,Jakarta,Kopi Arabika 200gr,Beverages,5,75000,15%,COD,Completed
+32,"Feb 15, 2024",siti aminah,,jakarta,Kopi Arabika 200gr,Beverages,4,,5%,COD,Cancelled
+33,09-04-2024,michael TAN,,Kuala Lumpur,Kopi Arabika 200gr,Beverages,1,75000,0,Transfer Bank,Completed
+34,"Feb 18, 2024",michael TAN,michael@example.com,Kuala Lumpur,Teh Hijau 100gr,Beverages,3,45000,5%,COD,Cancelled
+35,2024-01-21,LINA wijaya,,Bandung,Kue Coklat,Snacks,1,55000,0,QRIS,Cancelled
+36,2024/04/18,siti aminah,,singapore,Teh Hijau 100gr,Beverages,1,45000,10%,QRIS,Cancelled
+37,29-03-2024,ANDI saputra,andi@example.com,Surabaya,Kue Coklat,Snacks,2,55000,0,COD,Completed
+38,11/04/2024,siti aminah,siti@example.com,Bandung,Teh Hijau 100gr,Beverages,,,0.10,Kartu Kredit,Cancelled
+39,04/02/2024,budi HARTONO,,Jakarta,Teh Hijau 100gr,Beverages,2,,0,Kartu Kredit,Cancelled
+40,2024-02-04,budi HARTONO,,Jakarta,Kue Coklat,Snacks,,,0.05,QRIS,Pending
+41,29/04/2024,siti aminah,siti@example.com,Jakarta,Kue Coklat,Snacks,-1,55000,,COD,Pending
+42,28-02-2024,ANDI saputra,,Kuala Lumpur,Kue Coklat,Snacks,,,0,Transfer Bank,Completed
+43,"Mar 29, 2024",siti aminah,siti@example.com,Jakarta,Teh Hijau 100gr,Beverages,5,,0,COD,Pending
+44,2024/01/29,michael TAN,michael@example.com,Bandung,Roti Gandum,Bakery,1,,,Transfer Bank,Cancelled
+45,2024/03/01,michael TAN,michael@example.com,Kuala Lumpur,Teh Hijau 100gr,Beverages,3,,0,Transfer Bank,Cancelled
+46,2024/02/23,siti aminah,,Surabaya,Roti Gandum,Bakery,-1,,15%,QRIS,Completed
+47,10/04/2024,LINA wijaya,,Surabaya,Jus Jeruk 250ml,Beverages,5,30000,0,COD,Completed
+48,"Apr 01, 2024",LINA wijaya,,Surabaya,Roti Gandum,Bakery,4,,0.05,Kartu Kredit,Cancelled
+49,20-02-2024,budi HARTONO,,Jakarta,Kopi Arabika 200gr,Beverages,,75000,5%,COD,Completed
+50,2024-01-18,budi HARTONO,budi@example.com,Surabaya,Teh Hijau 100gr,Beverages,5,45000,,Kartu Kredit,Cancelled
+51,2024/04/15,michael TAN,,Surabaya,Teh Hijau 100gr,Beverages,2,45000,5%,Transfer Bank,Completed
+52,06-02-2024,LINA wijaya,,Jakarta,Teh Hijau 100gr,Beverages,5,45000,0.10,Transfer Bank,Pending
+53,09-04-2024,budi HARTONO,,Surabaya,Jus Jeruk 250ml,Beverages,5,,15%,Kartu Kredit,Cancelled
+54,2024/04/19,LINA wijaya,,Bandung,Teh Hijau 100gr,Beverages,,45000,0.10,COD,Cancelled
+55,2024/02/19,LINA wijaya,lina@example.com,Kuala Lumpur,Teh Hijau 100gr,Beverages,3,45000,0,COD,Pending
+56,01/02/2024,michael TAN,michael@example.com,Surabaya,Kopi Arabika 200gr,Beverages,-1,75000,5%,QRIS,Completed
+57,26-02-2024,LINA wijaya,,Surabaya,Jus Jeruk 250ml,Beverages,1,30000,0.10,Kartu Kredit,Pending
+58,21-04-2024,michael TAN,,Surabaya,Kopi Arabika 200gr,Beverages,1,,0,Kartu Kredit,Pending
+59,26-04-2024,michael TAN,michael@example.com,Surabaya,Roti Gandum,Bakery,2,,,Kartu Kredit,Completed
+60,2024/04/09,LINA wijaya,lina@example.com,Surabaya,Kue Coklat,Snacks,2,,15%,Transfer Bank,Pending
+61,2024-04-08,michael TAN,michael@example.com,Kuala Lumpur,Roti Gandum,Bakery,4,40000,0.10,Kartu Kredit,Completed
+62,"Mar 03, 2024",ANDI saputra,andi@example.com,Surabaya,Kue Coklat,Snacks,3,,0.10,Kartu Kredit,Pending
+63,2024-04-30,LINA wijaya,,Jakarta,Kue Coklat,Snacks,-1,,10%,COD,Completed
+64,2024-04-20,ANDI saputra,andi@example.com,jakarta,Kopi Arabika 200gr,Beverages,,75000,15%,QRIS,Completed
+65,2024-04-09,budi HARTONO,budi@example.com,Surabaya,Jus Jeruk 250ml,Beverages,-1,,0.10,COD,Completed
+66,2024-04-19,michael TAN,michael@example.com,Bandung,Roti Gandum,Bakery,1,,10%,COD,Cancelled
+67,15/04/2024,LINA wijaya,lina@example.com,singapore,Jus Jeruk 250ml,Beverages,-1,,0.05,Transfer Bank,Cancelled
+68,2024-04-27,siti aminah,siti@example.com,Bandung,Roti Gandum,Bakery,5,,5%,COD,Completed
+69,2024/01/16,michael TAN,,Jakarta,Kue Coklat,Snacks,4,,5%,Kartu Kredit,Cancelled
+70,06-02-2024,budi HARTONO,,singapore,Jus Jeruk 250ml,Beverages,,,0.10,Kartu Kredit,Pending
+71,"Feb 18, 2024",LINA wijaya,lina@example.com,Jakarta,Roti Gandum,Bakery,3,,0.05,Kartu Kredit,Cancelled
+72,2024-02-27,michael TAN,,Bandung,Jus Jeruk 250ml,Beverages,2,,0.05,COD,Pending
+73,"Mar 31, 2024",siti aminah,siti@example.com,singapore,Kue Coklat,Snacks,2,55000,0.05,Kartu Kredit,Pending
+74,2024/04/12,michael TAN,,Surabaya,Teh Hijau 100gr,Beverages,,45000,10%,COD,Completed
+75,23-02-2024,LINA wijaya,,Surabaya,Teh Hijau 100gr,Beverages,5,,0,Kartu Kredit,Cancelled
+76,2024/02/29,michael TAN,,Bandung,Kue Coklat,Snacks,3,55000,10%,QRIS,Pending
+77,21/04/2024,ANDI saputra,andi@example.com,jakarta,Roti Gandum,Bakery,-1,,0,COD,Completed
+78,"Feb 13, 2024",budi HARTONO,budi@example.com,Bandung,Kue Coklat,Snacks,1,,15%,QRIS,Pending
+79,"Mar 25, 2024",ANDI saputra,andi@example.com,Kuala Lumpur,Kopi Arabika 200gr,Beverages,,,10%,Transfer Bank,Cancelled
+80,2024/03/16,siti aminah,,jakarta,Jus Jeruk 250ml,Beverages,1,,0.10,Kartu Kredit,Completed
+81,2024-03-17,ANDI saputra,andi@example.com,jakarta,Jus Jeruk 250ml,Beverages,2,,0,Transfer Bank,Completed
+82,2024/04/21,ANDI saputra,andi@example.com,singapore,Roti Gandum,Bakery,4,,,COD,Cancelled
+83,27-03-2024,LINA wijaya,lina@example.com,singapore,Kue Coklat,Snacks,-1,55000,0.10,QRIS,Cancelled
+84,2024-04-08,budi HARTONO,budi@example.com,jakarta,Kue Coklat,Snacks,2,,10%,QRIS,Completed
+85,12-04-2024,LINA wijaya,,Bandung,Jus Jeruk 250ml,Beverages,1,30000,0,COD,Cancelled
+86,11/04/2024,LINA wijaya,,Kuala Lumpur,Kopi Arabika 200gr,Beverages,5,,0.10,QRIS,Pending
+87,12/02/2024,ANDI saputra,,jakarta,Roti Gandum,Bakery,1,40000,0.05,COD,Cancelled
+88,2024-03-11,michael TAN,,Kuala Lumpur,Kue Coklat,Snacks,3,,,COD,Cancelled
+89,2024-03-11,michael TAN,michael@example.com,Surabaya,Jus Jeruk 250ml,Beverages,-1,,15%,COD,Completed
+90,10-04-2024,ANDI saputra,andi@example.com,Kuala Lumpur,Teh Hijau 100gr,Beverages,,,15%,Transfer Bank,Completed
+91,2024/04/07,LINA wijaya,,jakarta,Roti Gandum,Bakery,5,,5%,Kartu Kredit,Completed
+92,"Mar 07, 2024",LINA wijaya,,Kuala Lumpur,Kue Coklat,Snacks,1,55000,0,Kartu Kredit,Cancelled
+93,2024/04/08,LINA wijaya,lina@example.com,Surabaya,Kue Coklat,Snacks,1,,0,COD,Completed
+94,2024-04-29,LINA wijaya,,Surabaya,Roti Gandum,Bakery,1,40000,15%,COD,Cancelled
+95,2024-04-21,LINA wijaya,lina@example.com,Bandung,Jus Jeruk 250ml,Beverages,5,30000,0,Kartu Kredit,Cancelled
+96,18-01-2024,LINA wijaya,lina@example.com,Kuala Lumpur,Kopi Arabika 200gr,Beverages,2,,15%,Transfer Bank,Cancelled
+97,2024-02-12,LINA wijaya,,Jakarta,Kopi Arabika 200gr,Beverages,-1,75000,,COD,Cancelled
+98,2024/04/30,siti aminah,,jakarta,Jus Jeruk 250ml,Beverages,4,,0.05,Kartu Kredit,Completed
+99,19/04/2024,michael TAN,michael@example.com,Bandung,Roti Gandum,Bakery,,,0,COD,Completed
+100,30-03-2024,siti aminah,,jakarta,Kue Coklat,Snacks,4,,,COD,Pending
